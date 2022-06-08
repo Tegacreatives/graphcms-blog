@@ -1,0 +1,17 @@
+.blogcardtext{
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+.blogcard{
+    cursor: pointer;
+    transition: all .4s ease-out;
+}
+
+.blogcard:hover{
+    transform: scale(.9);
+}
+
+.blogcardimage{
+    border-radius: 1rem;
+}

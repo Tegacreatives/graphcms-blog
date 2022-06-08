@@ -1,0 +1,8 @@
+.container {
+    padding: 0 2rem;
+  }
+  
+  .aboutimage{
+      display: flex;
+      gap: 50px;
+  }
